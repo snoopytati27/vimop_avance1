@@ -1,0 +1,606 @@
+{
+  "version": 4,
+  "reference_resolution": [
+    1322,
+    604
+  ],
+  "units": "px",
+  "source": "Imagen: WhatsApp Image 2026-09-24 at 15.58.53.jpeg",
+  "updated": "2026-09-25 23:15:07",
+  "reference_thumbnail": "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",
+  "spaces": {
+    "P01": {
+      "points": [
+        [
+          206.9,
+          412.4
+        ],
+        [
+          434.6,
+          603.0
+        ],
+        [
+          757.0,
+          603.0
+        ],
+        [
+          414.9,
+          421.7
+        ],
+        [
+          207.2,
+          412.2
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        463.7,
+        517.7
+      ],
+      "angle": 27.92,
+      "width": 550.1,
+      "height": 190.8
+    },
+    "P02": {
+      "points": [
+        [
+          414.9,
+          420.3
+        ],
+        [
+          757.7,
+          602.9
+        ],
+        [
+          996.7,
+          577.2
+        ],
+        [
+          633.3,
+          423.1
+        ],
+        [
+          414.6,
+          422.2
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        708.2,
+        510.9
+      ],
+      "angle": 22.98,
+      "width": 578.3,
+      "height": 180.7
+    },
+    "P03": {
+      "points": [
+        [
+          633.3,
+          423.6
+        ],
+        [
+          997.2,
+          577.2
+        ],
+        [
+          1162.2,
+          543.8
+        ],
+        [
+          834.1,
+          418.9
+        ],
+        [
+          631.9,
+          424.1
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        908.6,
+        493.1
+      ],
+      "angle": 20.84,
+      "width": 527.9,
+      "height": 158.4
+    },
+    "P04": {
+      "points": [
+        [
+          207.4,
+          412.6
+        ],
+        [
+          469.5,
+          310.8
+        ],
+        [
+          658.1,
+          315.5
+        ],
+        [
+          415.8,
+          421.1
+        ],
+        [
+          207.4,
+          411.7
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        436.0,
+        366.0
+      ],
+      "angle": 158.95,
+      "width": 448.5,
+      "height": 110.3
+    },
+    "P05": {
+      "points": [
+        [
+          414.9,
+          420.7
+        ],
+        [
+          659.0,
+          314.6
+        ],
+        [
+          804.7,
+          319.8
+        ],
+        [
+          633.1,
+          423.5
+        ],
+        [
+          416.7,
+          419.7
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        621.9,
+        372.5
+      ],
+      "angle": 156.55,
+      "width": 387.7,
+      "height": 108.9
+    },
+    "P06": {
+      "points": [
+        [
+          631.2,
+          423.5
+        ],
+        [
+          803.3,
+          320.2
+        ],
+        [
+          938.1,
+          321.7
+        ],
+        [
+          834.4,
+          417.4
+        ],
+        [
+          630.7,
+          422.1
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        797.6,
+        373.2
+      ],
+      "angle": 178.27,
+      "width": 304.4,
+      "height": 101.7
+    },
+    "P07": {
+      "points": [
+        [
+          348.5,
+          209.9
+        ],
+        [
+          486.7,
+          261.7
+        ],
+        [
+          628.9,
+          264.9
+        ],
+        [
+          465.1,
+          212.6
+        ],
+        [
+          348.1,
+          209.9
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        484.8,
+        238.2
+      ],
+      "angle": 17.69,
+      "width": 280.4,
+      "height": 55.0
+    },
+    "P08": {
+      "points": [
+        [
+          464.8,
+          212.2
+        ],
+        [
+          628.2,
+          264.9
+        ],
+        [
+          762.5,
+          268.8
+        ],
+        [
+          582.6,
+          215.4
+        ],
+        [
+          464.8,
+          211.1
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        610.1,
+        240.5
+      ],
+      "angle": 16.54,
+      "width": 297.8,
+      "height": 57.7
+    },
+    "P09": {
+      "points": [
+        [
+          582.2,
+          216.2
+        ],
+        [
+          762.5,
+          269.2
+        ],
+        [
+          886.2,
+          274.7
+        ],
+        [
+          696.5,
+          218.9
+        ],
+        [
+          582.2,
+          216.2
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        732.4,
+        244.8
+      ],
+      "angle": 16.38,
+      "width": 304.0,
+      "height": 58.5
+    },
+    "P10": {
+      "points": [
+        [
+          348.2,
+          209.9
+        ],
+        [
+          463.9,
+          212.0
+        ],
+        [
+          600.1,
+          182.9
+        ],
+        [
+          496.9,
+          178.8
+        ],
+        [
+          347.8,
+          209.5
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        475.5,
+        196.0
+      ],
+      "angle": 168.37,
+      "width": 252.3,
+      "height": 33.2
+    },
+    "P11": {
+      "points": [
+        [
+          463.9,
+          211.3
+        ],
+        [
+          582.1,
+          215.9
+        ],
+        [
+          684.6,
+          188.4
+        ],
+        [
+          600.1,
+          183.2
+        ],
+        [
+          464.6,
+          211.7
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        580.2,
+        200.3
+      ],
+      "angle": 168.32,
+      "width": 218.8,
+      "height": 32.7
+    },
+    "P12": {
+      "points": [
+        [
+          582.4,
+          215.3
+        ],
+        [
+          696.7,
+          219.5
+        ],
+        [
+          787.7,
+          191.0
+        ],
+        [
+          684.6,
+          187.4
+        ],
+        [
+          582.1,
+          215.9
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        687.6,
+        203.6
+      ],
+      "angle": 1.8,
+      "width": 203.5,
+      "height": 32.1
+    },
+    "P13": {
+      "points": [
+        [
+          408.1,
+          138.8
+        ],
+        [
+          468.1,
+          153.2
+        ],
+        [
+          578.0,
+          160.7
+        ],
+        [
+          485.7,
+          140.4
+        ],
+        [
+          408.1,
+          138.8
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        488.0,
+        148.5
+      ],
+      "angle": 3.92,
+      "width": 169.9,
+      "height": 21.9
+    },
+    "P14": {
+      "points": [
+        [
+          485.7,
+          140.1
+        ],
+        [
+          578.0,
+          160.7
+        ],
+        [
+          678.5,
+          167.9
+        ],
+        [
+          566.3,
+          142.0
+        ],
+        [
+          485.7,
+          139.4
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        577.5,
+        152.5
+      ],
+      "angle": 12.59,
+      "width": 192.8,
+      "height": 28.5
+    },
+    "P15": {
+      "points": [
+        [
+          566.3,
+          142.0
+        ],
+        [
+          678.5,
+          167.9
+        ],
+        [
+          764.3,
+          173.1
+        ],
+        [
+          643.8,
+          146.0
+        ],
+        [
+          566.3,
+          142.0
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        663.9,
+        157.4
+      ],
+      "angle": 12.71,
+      "width": 198.0,
+      "height": 31.1
+    },
+    "P16": {
+      "points": [
+        [
+          407.8,
+          138.8
+        ],
+        [
+          510.9,
+          124.4
+        ],
+        [
+          575.7,
+          127.3
+        ],
+        [
+          485.7,
+          139.8
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        494.3,
+        132.5
+      ],
+      "angle": 172.13,
+      "width": 167.9,
+      "height": 15.4
+    },
+    "P17": {
+      "points": [
+        [
+          485.1,
+          139.8
+        ],
+        [
+          576.4,
+          127.3
+        ],
+        [
+          650.1,
+          130.6
+        ],
+        [
+          566.9,
+          141.7
+        ],
+        [
+          485.4,
+          140.1
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        568.4,
+        134.9
+      ],
+      "angle": 172.38,
+      "width": 165.0,
+      "height": 14.4
+    },
+    "P18": {
+      "points": [
+        [
+          565.9,
+          141.7
+        ],
+        [
+          650.4,
+          130.9
+        ],
+        [
+          717.5,
+          135.5
+        ],
+        [
+          644.5,
+          146.0
+        ]
+      ],
+      "axis_swap": false,
+      "center": [
+        643.6,
+        138.6
+      ],
+      "angle": 172.71,
+      "width": 151.6,
+      "height": 15.1
+    }
+  },
+  "ground_quad": {
+    "image_points": [
+      [
+        206.9,
+        412.4
+      ],
+      [
+        434.6,
+        603.0
+      ],
+      [
+        757.0,
+        603.0
+      ],
+      [
+        414.9,
+        421.7
+      ]
+    ],
+    "size": [
+      1.14,
+      1.94
+    ],
+    "angle": 43.19
+  }
+}
